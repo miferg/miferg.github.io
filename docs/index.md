@@ -9,7 +9,7 @@ PhD Student at the Environmental Genomics lab at the School of Science in the Na
 
 I like to study microbial ecology and genomics mainly through **bioinformatics**.
 
-My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional informaion at the protein level.
+My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information at the protein level.
 
 I am also working on a mine tailing bioremediation proyect analizing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
 
