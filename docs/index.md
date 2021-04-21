@@ -1,4 +1,9 @@
-# Miguel Fernando Romero Gutiérrez
+[Home](https://miferg.github.io)
+  | [Publications](https://miferg.github.io/publications)
+  | [Courses](https://miferg.github.io/courses)
+  | [Other interests](https://miferg.github.io/other)
+
+# Miguel Fernando Romero Gutiérrez, MSc
 
 PhD Student at the Environmental Genomics lab at the School of Science in the National Autonomous University of Mexico.
 
