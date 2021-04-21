@@ -1,3 +1,8 @@
+[Home](https://miferg.github.io)
+  | [Publications](https://miferg.github.io/publications)
+  | [Courses](https://miferg.github.io/courses)
+  | [Other interests](https://miferg.github.io/other)
+
 # Publications
 
 Ordered by date, with the most recent on top.
