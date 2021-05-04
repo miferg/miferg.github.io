@@ -8,16 +8,16 @@
 Ordered by date, with the most recent on top.
 ---
 
-2021. Bioinformatics, Center for Anthropological Studies, Faculty of Political and Social Sciences, Autonomous National University of Mexico.
+2021, Bioinformatics, Center for Anthropological Studies, Faculty of Political and Social Sciences, Autonomous National University of Mexico.
 
 ---
 
-2020. Bioinformatics, Center for Anthropological Studies, Faculty of Political and Social Sciences, Autonomous National University of Mexico.
+2020, Bioinformatics, Center for Anthropological Studies, Faculty of Political and Social Sciences, Autonomous National University of Mexico.
 
 ---
 
-2018. Introduction to bioinformatics using bacterial genomics, Biochemical Sciences Graduate Program, Autonomous National University of Mexico.
+2018, Introduction to bioinformatics using bacterial genomics, Biochemical Sciences Graduate Program, Autonomous National University of Mexico.
 
 ---
 
-2017. Introduction to bioinformatics using bacterial genomics, Biochemical Sciences Graduate Program, Autonomous National University of Mexico.
+2017, Introduction to bioinformatics using bacterial genomics, Biochemical Sciences Graduate Program, Autonomous National University of Mexico.
