@@ -33,4 +33,5 @@ DOI: [10.1155/2016/3241027](https://doi.org/10.1155/2016/3241027)
 ---
 
 Reyna-Fabián, M. E., Zermeño, V., Ximénez, C., Flores, J., **Romero, M. F.**, Diaz, D., ... & Cerritos, R. (2016). Analysis of the bacterial diversity in liver abscess: differences between pyogenic and amebic abscesses. The American journal of tropical medicine and hygiene, 94(1), 147-155.
+
 DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
