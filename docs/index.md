@@ -5,7 +5,7 @@
 
 # Miguel Fernando Romero Gutiérrez, MSc
 
-PhD Student at the Environmental Genomics lab at the School of Science in the National Autonomous University of Mexico.
+PhD Student at the Environmental Genomics lab at the School of Science in the Autonomous National University of Mexico.
 
 I like to study microbial ecology and genomics mainly through **bioinformatics**.
 
