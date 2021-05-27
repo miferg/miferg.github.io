@@ -13,6 +13,8 @@ My current research aims to reclaim the uncharacterized protein content of metag
 
 I am also working on a mine tailing bioremediation proyect analizing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
 
+Contact: miferg@ciencias.unam.mx
+
 ### Links:
 
 1. [Environmental Genomics lab](https://genomica.fciencias.unam.mx/)
