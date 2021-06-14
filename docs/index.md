@@ -1,7 +1,3 @@
-[Home](https://miferg.github.io)
-  | [Publications](https://miferg.github.io/publications)
-  | [Courses](https://miferg.github.io/courses)
-  | [Other interests](https://miferg.github.io/other)
 
 # Miguel Fernando Romero Gutiérrez, MSc
 
@@ -9,11 +5,19 @@ PhD Student at the Environmental Genomics lab at the School of Science in the Au
 
 I like to study microbial ecology and genomics mainly through **bioinformatics**.
 
-My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information at the protein level.
+My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information.
 
 I am also working on a mine tailing bioremediation proyect analizing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
 
 Contact: miferg@ciencias.unam.mx
+
+### About me:
+
+[Publications](https://miferg.github.io/publications)
+
+[Courses](https://miferg.github.io/courses)
+
+[Other interests](https://miferg.github.io/other)
 
 ### Links:
 
