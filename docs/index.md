@@ -15,7 +15,7 @@ Contact: miferg@ciencias.unam.mx
 
 [Publications](https://miferg.github.io/publications)
 
-[Courses](https://miferg.github.io/courses)
+[Courses given](https://miferg.github.io/courses)
 
 [Other interests](https://miferg.github.io/other)
 
