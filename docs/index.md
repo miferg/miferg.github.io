@@ -7,7 +7,7 @@ I like to study microbial ecology and genomics mainly through **bioinformatics**
 
 My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information.
 
-I am also working on a mine tailing bioremediation proyect analizing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
+I am also working on a mine tailing mine tailing bioremediation project analyzing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
 
 Contact: miferg@ciencias.unam.mx
 
