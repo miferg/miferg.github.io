@@ -6,6 +6,11 @@
 # Courses given
 
 Ordered by date, with the most recent on top.
+
+---
+
+2021, Bioinformatics, School of Science and Technology, Autonomous University of Mexico City.
+
 ---
 
 2021, Bioinformatics, Center for Anthropological Studies, Faculty of Political and Social Sciences, Autonomous National University of Mexico.
