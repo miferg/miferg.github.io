@@ -1,6 +1,7 @@
 [Home](https://miferg.github.io)
   | [Publications](https://miferg.github.io/publications)
   | [Courses](https://miferg.github.io/courses)
+  | [Science outreach](https://miferg.github.io/outreach)
   | [Other interests](https://miferg.github.io/other)
 
 # Courses given
