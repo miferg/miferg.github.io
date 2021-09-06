@@ -6,7 +6,14 @@
 
 # Publications
 
-Ordered by date, with the most recent on top.
+**Ordered by date, with the most recent on top.**
+
+---
+
+Hernández-Álvarez, C., García-Oliva, F., Cruz-Ortega, R., **Romero, M. F.**, Barajas, H. R., Piñero, D., Alcaraz, L. D. (2021) Squash root microbiome transplants and metagenomic inspection for in situ arid adaptations. Science of The Total Environment, 2021, 150136.
+
+DOI: [10.1016/j.scitotenv.2021.150136](https://doi.org/10.1016/j.scitotenv.2021.150136)
+
 ---
 
 **Romero, M. F.**, Gallego, D., Lechuga-Jiménez, A., Martínez, J. F., Barajas, H. R., Hayano-Kanashiro, C., ... & Alcaraz, L. D. (2021). Metagenomics of mine tailing rhizospheric communities and its selection for plant establishment towards bioremediation. Microbiological Research, 247, 126732.
