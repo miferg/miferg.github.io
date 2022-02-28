@@ -25,7 +25,7 @@ Contact: mfromerogutierrez@lbl.gov
 
 ### Links:
 
-1. [New Lineages of Life Group](https://ghttps://jgi.doe.gov/our-science/scientists-jgi/new-lineages-of-life/)
+1. [New Lineages of Life Group](https://jgi.doe.gov/our-science/scientists-jgi/new-lineages-of-life/)
 2. [ResearchGate](https://www.researchgate.net/profile/Miguel-Romero-36)
 3. [GitHub](https://github.com/miferg)
 4. [ORCID](http://orcid.org/0000-0002-3799-717X)
