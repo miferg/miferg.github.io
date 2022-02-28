@@ -1,15 +1,17 @@
 
-# Miguel Fernando Romero Gutiérrez, MSc
+# Miguel Fernando Romero Gutiérrez, PhD
 
-PhD Student at the Environmental Genomics lab at the School of Science in the Autonomous National University of Mexico.
+Postdoctoral research scholar at the DOE Joint Genome Institute.
 
 I like to study microbial ecology and genomics mainly through **bioinformatics**.
 
-My current research aims to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information.
+I am currently looking for previously uncharacterized lineages of protists using molecular phylogenetics, genomics, and metagenomics. My aim is to eventually understand the phylogenetic and metabolic diversity that these novel taxa harbor and how they have been shaped by the environment.
 
-I am also working on a mine tailing bioremediation project analyzing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
+Previous research aimed to reclaim the uncharacterized protein content of metagenomic data in order to infer functional information.
 
-Contact: miferg@ciencias.unam.mx
+I have also worked on a mine tailing bioremediation project analyzing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
+
+Contact: mfromerogutierrez@lbl.gov
 
 ### About me:
 
@@ -23,7 +25,7 @@ Contact: miferg@ciencias.unam.mx
 
 ### Links:
 
-1. [Environmental Genomics lab](https://genomica.fciencias.unam.mx/)
+1. [New Lineages of Life Group](https://ghttps://jgi.doe.gov/our-science/scientists-jgi/new-lineages-of-life/)
 2. [ResearchGate](https://www.researchgate.net/profile/Miguel-Romero-36)
 3. [GitHub](https://github.com/miferg)
 4. [ORCID](http://orcid.org/0000-0002-3799-717X)
