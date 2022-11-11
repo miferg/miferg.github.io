@@ -29,4 +29,4 @@ Contact: mfromerogutierrez@lbl.gov
 2. [ResearchGate](https://www.researchgate.net/profile/Miguel-Romero-36)
 3. [GitHub](https://github.com/miferg)
 4. [ORCID](http://orcid.org/0000-0002-3799-717X)
-5. [Twitter](https://twitter.com/mikebartgeier)
+5. [Mastodon](https://genomic.social/@miferg)
