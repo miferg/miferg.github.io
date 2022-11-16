@@ -11,7 +11,7 @@ Previous research aimed to reclaim the uncharacterized protein content of metage
 
 I have also worked on a mine tailing bioremediation project analyzing microbiome and RNASeq data to understand the establishment of pioneer plants in this toxic substrate.
 
-Contact: mfromerogutierrez@lbl.gov
+Contact: romeromiguelfer@gmail.com
 
 ### About me:
 
