@@ -10,11 +10,18 @@
 
 ---
 
+**Romero, M. F.**, Krall, J. B., Nichols, P. J., Vantreeck, J., Henen, M. A., Dejardin, E., ... & Diallo, M. A. (2024). Novel Z-DNA binding domains in giant viruses. Journal of Biological Chemistry, 107504.
+
+DOI: [10.1016/j.jbc.2024.107504](https://doi.org/10.1016/j.jbc.2024.107504)
+
+---
+
 Hernández, A. M., Alcaraz, L. D., Hernández-Álvarez, C., **Romero, M. F.**, Jara-Servín, A., Barajas, H., ... & Peimbert, M. (2024). Revealing the microbiome diversity and biocontrol potential of field Aedes ssp.: Implications for disease vector management. PloS one, 19(4), e0302328.
 
 DOI: [10.1371/journal.pone.0302328](https://doi.org/10.1371/journal.pone.0302328)
 
 ---
+
 Hernández-Álvarez, C., García-Oliva, F., Cruz-Ortega, R., **Romero, M. F.**, Barajas, H. R., Piñero, D., Alcaraz, L. D. (2021) Squash root microbiome transplants and metagenomic inspection for in situ arid adaptations. Science of The Total Environment, 2021, 150136.
 
 DOI: [10.1016/j.scitotenv.2021.150136](https://doi.org/10.1016/j.scitotenv.2021.150136)
