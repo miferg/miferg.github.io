@@ -10,6 +10,12 @@
 
 ---
 
+Jara-Servin, A., Mejia, G., **Romero, M.F.**, Peimbert, M. & Alcaraz, L.D. (2024). Unravelling the genomic and environmental diversity of the ubiquitous Solirubrobacter. Environmental Microbiology, e16685.
+
+DOI: [10.1111/1462-2920.16685](https://doi.org/10.1111/1462-2920.16685)
+
+---
+
 **Romero, M. F.**, Krall, J. B., Nichols, P. J., Vantreeck, J., Henen, M. A., Dejardin, E., ... & Diallo, M. A. (2024). Novel Z-DNA binding domains in giant viruses. Journal of Biological Chemistry, 107504.
 
 DOI: [10.1016/j.jbc.2024.107504](https://doi.org/10.1016/j.jbc.2024.107504)
