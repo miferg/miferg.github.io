@@ -10,6 +10,12 @@
 
 ---
 
+**Romero, M.F.** (2025).  The intruders that stole the master key. Nature Reviews Microbiology.
+
+DOI: [10.1038/s41579-025-01158-x](https://doi.org/10.1038/s41579-025-01158-x)
+
+---
+
 Jara-Servin, A., Mejia, G., **Romero, M.F.**, Peimbert, M. & Alcaraz, L.D. (2024). Unravelling the genomic and environmental diversity of the ubiquitous Solirubrobacter. Environmental Microbiology, e16685.
 
 DOI: [10.1111/1462-2920.16685](https://doi.org/10.1111/1462-2920.16685)
