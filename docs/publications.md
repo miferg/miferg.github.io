@@ -10,12 +10,6 @@
 
 ---
 
-**Romero, M.F.** (2025).  The intruders that stole the master key. Nature Reviews Microbiology.
-
-DOI: [10.1038/s41579-025-01158-x](https://doi.org/10.1038/s41579-025-01158-x)
-
----
-
 Jara-Servin, A., Mejia, G., **Romero, M.F.**, Peimbert, M. & Alcaraz, L.D. (2024). Unravelling the genomic and environmental diversity of the ubiquitous Solirubrobacter. Environmental Microbiology, e16685.
 
 DOI: [10.1111/1462-2920.16685](https://doi.org/10.1111/1462-2920.16685)
@@ -67,3 +61,14 @@ DOI: [10.1155/2016/3241027](https://doi.org/10.1155/2016/3241027)
 Reyna-Fabián, M. E., Zermeño, V., Ximénez, C., Flores, J., **Romero, M. F.**, Diaz, D., ... & Cerritos, R. (2016). Analysis of the bacterial diversity in liver abscess: differences between pyogenic and amebic abscesses. The American journal of tropical medicine and hygiene, 94(1), 147-155.
 
 DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
+
+---
+
+## Other publications
+
+---
+
+**Romero, M.F.** (2025).  The intruders that stole the master key. Nature Reviews Microbiology.
+
+DOI: [10.1038/s41579-025-01158-x](https://doi.org/10.1038/s41579-025-01158-x)
+
