@@ -1,7 +1,8 @@
 
 # Miguel Fernando Romero Gutiérrez, PhD
 
-Postdoctoral researcher at the Institute of Biology, UNAM; Research affiliate at the DOE Joint Genome Institute, LBNL
+- Postdoctoral researcher at the Institute of Biology, UNAM
+- Research affiliate at the DOE Joint Genome Institute, LBNL
 
 I like to study microbial ecology and genomics mainly through **bioinformatics**.
 
