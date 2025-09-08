@@ -62,6 +62,10 @@ Shrestha, B., **Romero, M. F.**, Villada, J. C., Plastid MAG Consortium, Crysten
 
 DOI: [10.1101/2025.03.28.644651](https://doi.org/10.1101/2025.03.28.644651)
 
+Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of Pectobacterium species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
+
+DOI: [10.1101/2021.02.01.429127](https://doi.org/10.1101/2021.02.01.429127)
+
 ## Other publications
 
 **Romero, M.F.** (2025).  The intruders that stole the master key. *Nature Reviews Microbiology*.
