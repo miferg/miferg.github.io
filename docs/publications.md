@@ -46,6 +46,10 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 
 ## Preprints
 
+Vasquez, Y. M., Nardi, T., Terasaki, G. M., Byl, P. K., Bruna, T., Villada, J. C., **Romero, M. F.**, ... & Schulz, F. (2025). Genome-resolved expansion of Nucleocytoviricota and Mirusviricota reveals new diversity, functional potential, and biotechnological applications. *bioRxiv*, 2025-09.
+
+DOI: [10.1101/2025.09.26.678796](https://doi.org/10.1101/2025.09.26.678796)
+
 Vasquez, Y., **Romero-Gutierrez, M. F.**, Bower, R., Rohwer, R. R., McMahon, K., Woyke, T., & Schulz, F. (2025). Vicennial metagenomic time series unveils evolutionary dynamics of giant viruses in a freshwater ecosystem. *bioRxiv*, 2025-06.
 
 DOI: [10.1101/2025.06.13.655548](https://doi.org/10.1101/2025.06.13.655548)
