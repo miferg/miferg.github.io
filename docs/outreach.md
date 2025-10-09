@@ -8,4 +8,4 @@
 
 [Journal Club (Spanish)](https://genomica.fciencias.unam.mx/author/miguel_romero/)
 
-[Paleonthology science outreach project (Spanish)](https://www.facebook.com/Mesozoica-3D-104026225340709)
+[Microbiology outreach project (Spanish)](https://www.facebook.com/profile.php?id=61574472192315)
