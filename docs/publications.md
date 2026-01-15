@@ -8,6 +8,10 @@
 
 **Ordered by date, with the most recent on top.**
 
+Ahrendt, S.R., Haridas, S., Stong, S., Salamov, A., Steindorff, A., LaButti, K., Riley, R., Shabalov, I., Lukashin, I., Dusheyko, S., Schulz, F., **Romero, M. F.**, Villada,  J. C., Grigoriev, I. V.,  Mondo, S. J. (2026) Comparative mitogenomics of kingdom Fungi – evolutionary insights and metagenomic applications. *Nucleic Acids Research*, Volume 54, Issue 2, 27 January 2026, gkaf1419.
+
+DOI: [10.1093/nar/gkaf1419](https://doi.org/10.1093/nar/gkaf1419)
+
 Jara-Servin, A., Mejia, G., **Romero, M.F.**, Peimbert, M. & Alcaraz, L.D. (2024). Unravelling the genomic and environmental diversity of the ubiquitous Solirubrobacter. *Environmental Microbiology*, e16685.
 
 DOI: [10.1111/1462-2920.16685](https://doi.org/10.1111/1462-2920.16685)
