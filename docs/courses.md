@@ -10,6 +10,10 @@ Ordered by date, with the most recent on top.
 
 ---
 
+2025, Diversity and Ecological Aspects of Saprobic and Ectomycorrhizal Macromycetes and Lichens (metabarcoding module), Faculty of Sciences, Autonomous National University of Mexico.
+
+---
+
 2021, Bioinformatics, School of Science and Technology, Autonomous University of Mexico City.
 
 ---
