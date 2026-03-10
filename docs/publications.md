@@ -8,6 +8,10 @@
 
 **Ordered by date, with the most recent on top.**
 
+Shrestha, B., **Romero, M. F.**, Villada, J. C., Plastid MAG Consortium, ... & Schulz, F. (2026). Global metagenomics reveals plastid diversity and unexplored algal lineages. *Nature Communications*.
+
+DOI: [10.1038/s41467-026-68871-w](https://doi.org/10.1038/s41467-026-68871-w)
+
 Ahrendt, S.R., Haridas, S., Stong, S., Salamov, A., Steindorff, A., LaButti, K., Riley, R., Shabalov, I., Lukashin, I., Dusheyko, S., Schulz, F., **Romero, M. F.**, Villada,  J. C., Grigoriev, I. V.,  Mondo, S. J. (2026) Comparative mitogenomics of kingdom Fungi – evolutionary insights and metagenomic applications. *Nucleic Acids Research*, Volume 54, Issue 2, 27 January 2026, gkaf1419.
 
 DOI: [10.1093/nar/gkaf1419](https://doi.org/10.1093/nar/gkaf1419)
@@ -65,10 +69,6 @@ DOI: [10.1101/2025.05.29.656868](https://doi.org/10.1101/2025.05.29.656868)
 **Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Metagenomics Reveals Hidden Protist Diversity. *bioRxiv*, 2025-03.
 
 DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
-
-Shrestha, B., **Romero, M. F.**, Villada, J. C., Plastid MAG Consortium, Crysten, B. H., & Schulz, F. (2025). Global metagenomics reveals plastid diversity and unexplored algal lineages. *bioRxiv*, 2025-03.
-
-DOI: [10.1101/2025.03.28.644651](https://doi.org/10.1101/2025.03.28.644651)
 
 Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of Pectobacterium species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
 
