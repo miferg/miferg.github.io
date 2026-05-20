@@ -8,6 +8,10 @@
 
 **Ordered by date, with the most recent on top.**
 
+**Romero-Gutiérrez, M. F.**, Águila B., Miranda-González R., Escalante A. E., Garibay-Orijel, R. (2026). Effects of Land-Use and Vertical Compartmentalization on Eukaryotic Soil Algal Community Turnover in Peri-Urban Mexico City. *Phycology*, 2026, 6, 55.
+
+DOI: [10.3390/phycology6020055](https://doi.org/10.3390/phycology6020055)
+
 Shrestha, B., **Romero, M. F.**, Villada, J. C., Plastid MAG Consortium, ... & Schulz, F. (2026). Global metagenomics reveals plastid diversity and unexplored algal lineages. *Nature Communications*.
 
 DOI: [10.1038/s41467-026-68871-w](https://doi.org/10.1038/s41467-026-68871-w)
