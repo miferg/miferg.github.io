@@ -1,12 +1,17 @@
 [Home](https://miferg.github.io)
   | [Publications](https://miferg.github.io/publications)
   | [Courses](https://miferg.github.io/courses)
+  | [Recorded talks](https://miferg.github.io/recorded)
   | [Science outreach](https://miferg.github.io/outreach)
   | [Other interests](https://miferg.github.io/other)
 
 # Courses given
 
 Ordered by date, with the most recent on top.
+
+---
+
+2026, Diversity and Ecological Aspects of Saprobic and Ectomycorrhizal Macromycetes and Lichens (genomics module), Faculty of Sciences, Autonomous National University of Mexico.
 
 ---
 
