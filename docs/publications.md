@@ -1,12 +1,17 @@
 [Home](https://miferg.github.io)
   | [Publications](https://miferg.github.io/publications)
   | [Courses](https://miferg.github.io/courses)
+  | [Recorded talks](https://miferg.github.io/recorded)
   | [Science outreach](https://miferg.github.io/outreach)
   | [Other interests](https://miferg.github.io/other)
 
 # Publications
 
 **Ordered by date, with the most recent on top.**
+
+Vasquez, Y. M., **Romero, M. F.**, Bowers, R. M., Rohwer, R. R., McMahon, K. D., Woyke, T., & Schulz, F. (2026). Vicennial metagenomic time series unveils evolutionary dynamics of giant viruses in a freshwater ecosystem. *Nature Communications*.
+
+DOI: [10.1038/s41467-026-73437-x](https://doi.org/10.1038/s41467-026-73437-x)
 
 **Romero-Gutiérrez, M. F.**, Águila B., Miranda-González R., Escalante A. E., Garibay-Orijel, R. (2026). Effects of Land-Use and Vertical Compartmentalization on Eukaryotic Soil Algal Community Turnover in Peri-Urban Mexico City. *Phycology*, 2026, 6, 55.
 
