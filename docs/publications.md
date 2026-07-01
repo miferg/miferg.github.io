@@ -63,21 +63,17 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 
 ## Preprints
 
+**Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity and Taxonomic Blind Spots. *bioRxiv*, 2025-03.
+
+DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
+
 Vasquez, Y. M., Nardi, T., Terasaki, G. M., Byl, P. K., Bruna, T., Villada, J. C., **Romero, M. F.**, ... & Schulz, F. (2025). Genome-resolved expansion of Nucleocytoviricota and Mirusviricota reveals new diversity, functional potential, and biotechnological applications. *bioRxiv*, 2025-09.
 
 DOI: [10.1101/2025.09.26.678796](https://doi.org/10.1101/2025.09.26.678796)
 
-Vasquez, Y., **Romero-Gutierrez, M. F.**, Bower, R., Rohwer, R. R., McMahon, K., Woyke, T., & Schulz, F. (2025). Vicennial metagenomic time series unveils evolutionary dynamics of giant viruses in a freshwater ecosystem. *bioRxiv*, 2025-06.
-
-DOI: [10.1101/2025.06.13.655548](https://doi.org/10.1101/2025.06.13.655548)
-
 Villada, J. C., Vasquez, Y., Szabo, G., Walker, E. W., **Gutierrez, M. R.**, Qin, S., ... & Schulz, F. (2025). A genomic catalog of Earth's bacterial and archaeal symbionts. *bioRxiv*, 2025-05.
 
 DOI: [10.1101/2025.05.29.656868](https://doi.org/10.1101/2025.05.29.656868)
-
-**Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Metagenomics Reveals Hidden Protist Diversity. *bioRxiv*, 2025-03.
-
-DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
 
 Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of Pectobacterium species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
 
