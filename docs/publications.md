@@ -49,7 +49,7 @@ Barajas, H. R., Martínez-Sánchez, S., **Romero, M. F.**, Álvarez, C. H., Serv
 
 DOI: [10.3389/fmicb.2020.542742](https://doi.org/10.3389/fmicb.2020.542742)
 
-Barajas, H. R., **Romero, M. F.**, Martínez-Sánchez, S., & Alcaraz, L. D. (2019). Global genomic similarity and core genome sequence diversity of the Streptococcus genus as a toolkit to identify closely related bacterial species in complex environments. *PeerJ*, 6, e6233.
+Barajas, H. R., **Romero, M. F.**, Martínez-Sánchez, S., & Alcaraz, L. D. (2019). Global genomic similarity and core genome sequence diversity of the *Streptococcus* genus as a toolkit to identify closely related bacterial species in complex environments. *PeerJ*, 6, e6233.
 
 DOI: [10.7717/peerj.6233](https://doi.org/10.7717/peerj.6233)
 
