@@ -9,6 +9,10 @@
 
 **Ordered by date, with the most recent on top.**
 
+Vasquez, Y.M., Nardi, T., Terasaki, G.M., Byl, P. K., Bruna, T., Villada, J.C., **Romero-Gutierrez, M.F.**, ... & Schulz, F. (2026) Genomic catalogue of giant viruses reveals expanded diversity and functional potential. *Nature Microbiology*
+
+DOI: [10.1038/s41564-026-02435-y](https://doi.org/10.1038/s41564-026-02435-y)
+
 Vasquez, Y. M., **Romero, M. F.**, Bowers, R. M., Rohwer, R. R., McMahon, K. D., Woyke, T., & Schulz, F. (2026). Vicennial metagenomic time series unveils evolutionary dynamics of giant viruses in a freshwater ecosystem. *Nature Communications*.
 
 DOI: [10.1038/s41467-026-73437-x](https://doi.org/10.1038/s41467-026-73437-x)
@@ -66,10 +70,6 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 **Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity and Taxonomic Blind Spots. *bioRxiv*, 2025-03.
 
 DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
-
-Vasquez, Y. M., Nardi, T., Terasaki, G. M., Byl, P. K., Bruna, T., Villada, J. C., **Romero, M. F.**, ... & Schulz, F. (2025). Genome-resolved expansion of Nucleocytoviricota and Mirusviricota reveals new diversity, functional potential, and biotechnological applications. *bioRxiv*, 2025-09.
-
-DOI: [10.1101/2025.09.26.678796](https://doi.org/10.1101/2025.09.26.678796)
 
 Villada, J. C., Vasquez, Y., Szabo, G., Walker, E. W., **Gutierrez, M. R.**, Qin, S., ... & Schulz, F. (2025). A genomic catalog of Earth's bacterial and archaeal symbionts. *bioRxiv*, 2025-05.
 
