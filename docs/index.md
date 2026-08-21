@@ -16,7 +16,7 @@ Contact: romeromiguelfer@gmail.com
 
 [Publications](https://miferg.github.io/publications)
 
-[Courses given](https://miferg.github.io/courses)
+[Teaching](https://miferg.github.io/courses)
 
 [Recorded talks](https://miferg.github.io/recorded)
 
