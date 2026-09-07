@@ -36,3 +36,7 @@ Ordered by date, with the most recent on top.
 ---
 
 2017, Introduction to bioinformatics using bacterial genomics, Biochemical Sciences Graduate Program, Autonomous National University of Mexico.
+
+## Interactive resources
+
+- [Mauve whole-genome alignment viewer](/mauve-viewer/)
