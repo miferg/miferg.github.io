@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Mauve whole-genome alignment viewer</title>
+
+  <link rel="stylesheet" href="vendor/mauve-viewer.css">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      line-height: 1.45;
+    }
+
+    .header {
+      max-width: 1200px;
+      margin: 0 auto 20px auto;
+    }
+
+    #chart {
+      width: 1200px;
+      min-height: 700px;
+      margin: 0 auto;
+      border: 1px solid #ddd;
+      padding: 10px;
+      overflow-x: auto;
+    }
+
+    .note {
+      max-width: 1200px;
+      margin: 20px auto;
+      font-size: 0.95em;
+      color: #444;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <h1>Mauve whole-genome alignment viewer</h1>
+
+    <p>
+      Interactive visualization of locally collinear blocks parsed from a progressiveMauve
+      whole-genome alignment.
+    </p>
+
+    <p>
+      <a href="../">Back to main site</a>
+    </p>
+  </div>
+
+  <div id="chart"></div>
+
+  <div class="note">
+    <p>
+      Alignment blocks were generated with progressiveMauve and converted from XMFA to JSON
+      for visualization with mauve-viewer.
+    </p>
+  </div>
+
+  <script src="vendor/d3.min.js"></script>
+  <script src="vendor/mauve-viewer.js"></script>
+
+  <script>
+    fetch("data/lcbs.json")
+      .then(function(response) {
+        if (!response.ok) {
+          throw new Error("Could not load data/lcbs.json");
+        }
+        return response.json();
+      })
+      .then(function(lcbs) {
+        new MauveViewer({
+          d3: d3,
+          ele: document.getElementById("chart"),
+          lcbs: lcbs,
+          labels: {
+            "GCA_002995555.1_ASM299555v1_genomic.fna": "Streptococcus mutans strain LAR01",
+            "GCA_024762175.1_ASM2476217v1_genomic.fna": "Streptococcus mutans strain COCC33-14R",
+            "GCA_031192325.1_ASM3119232v1_genomic.fna": "Streptococcus salivarius strain LMG 11489",
+            "GCA_046763065.1_ASM4676306v1_genomic.fna": "Streptococcus salivarius strain MRD1919",
+            "GCA_965111735.1_D22_genome_genomic.fna": "Streptococcus mitis isolate S. mitis D22",
+            "GCF_000148585.2_ASM14858v3_genomic.fna": "Streptococcus mitis NCTC 12261",
+            "GCF_000253315.1_ASM25331v1_genomic.fna": "Streptococcus salivarius JIM8777",
+	    "GCF_019048645.1_ASM1904864v1_genomic.fna": "Streptococcus mutans strain FDAARGOS 1458"
+          }
+        });
+      })
+      .catch(function(error) {
+        document.getElementById("chart").innerHTML =
+          "<pre style='color:red'>" + error + "</pre>";
+        console.error(error);
+      });
+  </script>
+</body>
+</html>
