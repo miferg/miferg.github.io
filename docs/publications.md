@@ -9,6 +9,10 @@
 
 **Ordered by date, with the most recent on top.**
 
+Villada, J. C., Vasquez, Y. M., Szabo, G., Whittaker-Walker, E., **Romero, M. F.**, Qin, S., ... & Schulz, F. (2026). A genomic catalog of Earth’s bacterial and archaeal symbionts. *Nature Biotechnology*, 1-15.
+
+DOI: [10.1038/s41587-026-03213-1](https://doi.org/10.1038/s41587-026-03213-1)
+
 Vasquez, Y.M., Nardi, T., Terasaki, G.M., Byl, P. K., Bruna, T., Villada, J.C., **Romero-Gutierrez, M.F.**, ... & Schulz, F. (2026) Genomic catalogue of giant viruses reveals expanded diversity and functional potential. *Nature Microbiology*
 
 DOI: [10.1038/s41564-026-02435-y](https://doi.org/10.1038/s41564-026-02435-y)
@@ -71,15 +75,15 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 
 DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
 
-Villada, J. C., Vasquez, Y., Szabo, G., Walker, E. W., **Gutierrez, M. R.**, Qin, S., ... & Schulz, F. (2025). A genomic catalog of Earth's bacterial and archaeal symbionts. *bioRxiv*, 2025-05.
-
-DOI: [10.1101/2025.05.29.656868](https://doi.org/10.1101/2025.05.29.656868)
-
-Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of Pectobacterium species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
+Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of *Pectobacterium* species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
 
 DOI: [10.1101/2021.02.01.429127](https://doi.org/10.1101/2021.02.01.429127)
 
 ## Other publications
+
+Garibay-Orijel, R., Armendáriz-Toledano, F., Escalante, A. E., Águila, B., Martínez-Ugalde, E., **Romero-Gutiérrez**, M. F., ... & Kouater, F. (2027). Soil biodiversity interactions, ecosystem services, and soil security. In *The Science of Soil Security* (pp. 107-139). Elsevier.
+
+DOI: [10.1016/B978-0-443-40624-9.00009-4](https://doi.org/10.1016/B978-0-443-40624-9.00009-4)
 
 **Romero, M.F.** (2025).  The intruders that stole the master key. *Nature Reviews Microbiology*.
 
