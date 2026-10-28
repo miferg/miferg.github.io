@@ -71,6 +71,10 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 
 ## Preprints
 
+Andreani, J., **Romero-Gutierrez, M. F.**, Medvedeva, S., Bruna, T., Haas, N., Baudoin, J. P., ... & La Scola, B. (2026). A giant virus with a 4-megabase genome and a vastly expanded repeatome. bioRxiv, 2026-10.
+
+DOI: [10.64898/2026.10.17.759319](https://doi.org/10.64898/2026.10.17.759319)
+
 **Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity and Taxonomic Blind Spots. *bioRxiv*, 2025-03.
 
 DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
