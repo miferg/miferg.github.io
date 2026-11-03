@@ -15,3 +15,7 @@
 2025&emsp;&emsp;&emsp;Más Allá del Microscopio: Descubriendo Nuevos Linajes de Protistas Mediante Metagenómica Global *(Spanish)*
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Watch on YouTube](https://www.youtube.com/live/cIEBCL1Yf8I)
+
+2021&emsp;&emsp;&emsp;Metagenómica de la rizósfera de jales mineros *(Spanish)*
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[Watch on YouTube](https://youtu.be/Jf3djXxti0Q?t=59)
