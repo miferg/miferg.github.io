@@ -9,11 +9,17 @@
 
 **Ordered by date, with the most recent on top.**
 
+---
+
+**Romero-Gutiérrez, M.F.**, Krinos, A.I., Maurer-Alcala, X., Burns, J.A., Stepanauskas, R., Woyke, T., & Schulz, F. (2026). Global environmental genomics reveals vast uncultivated protist diversity and taxonomic blind spots. *Nature Communications*.
+
+DOI: [10.1038/s41467-026-78712-5](https://doi.org/10.1038/s41467-026-78712-5)
+
 Villada, J. C., Vasquez, Y. M., Szabo, G., Whittaker-Walker, E., **Romero, M. F.**, Qin, S., ... & Schulz, F. (2026). A genomic catalog of Earth’s bacterial and archaeal symbionts. *Nature Biotechnology*, 1-15.
 
 DOI: [10.1038/s41587-026-03213-1](https://doi.org/10.1038/s41587-026-03213-1)
 
-Vasquez, Y.M., Nardi, T., Terasaki, G.M., Byl, P. K., Bruna, T., Villada, J.C., **Romero-Gutierrez, M.F.**, ... & Schulz, F. (2026) Genomic catalogue of giant viruses reveals expanded diversity and functional potential. *Nature Microbiology*
+Vasquez, Y.M., Nardi, T., Terasaki, G.M., Byl, P. K., Bruna, T., Villada, J.C., **Romero-Gutierrez, M.F.**, ... & Schulz, F. (2026) Genomic catalogue of giant viruses reveals expanded diversity and functional potential. *Nature Microbiology*.
 
 DOI: [10.1038/s41564-026-02435-y](https://doi.org/10.1038/s41564-026-02435-y)
 
@@ -74,10 +80,6 @@ DOI: [10.4269/ajtmh.15-0458](https://doi.org/10.4269/ajtmh.15-0458)
 Andreani, J., **Romero-Gutierrez, M. F.**, Medvedeva, S., Bruna, T., Haas, N., Baudoin, J. P., ... & La Scola, B. (2026). A giant virus with a 4-megabase genome and a vastly expanded repeatome. bioRxiv, 2026-10.
 
 DOI: [10.64898/2026.10.17.759319](https://doi.org/10.64898/2026.10.17.759319)
-
-**Romero, M. F.**, Krinos, A. I., Maurer-Alcala, X., Burns, J. A., Stepanauskas, R., Woyke, T., & Schulz, F. (2025). Global Environmental Genomics Reveals Vast Uncultivated Protist Diversity and Taxonomic Blind Spots. *bioRxiv*, 2025-03.
-
-DOI: [10.1101/2025.03.26.645542](https://doi.org/10.1101/2025.03.26.645542)
 
 Vargas-Peralta, D., Narváez-Barragán, D. A., de Sandozequi, A., **Romero-Gutiérrez, M. F.**, Segovia, L., Martínez-Anaya, C., ... & de la Torre Almaraz, R. (2021). Identification of *Pectobacterium* species isolated from the soft rot of tetecho (Neobuxbaumia tetetzo), a columnar cactus, and associated metagenomics. *bioRxiv*, 2021-02.
 
